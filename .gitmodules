@@ -1,0 +1,3 @@
+[submodule "Airsim_MoveIt"]
+	path = Airsim_MoveIt
+	url = https://github.com/raaslab/GATSBI
