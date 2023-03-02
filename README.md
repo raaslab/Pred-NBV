@@ -4,6 +4,7 @@
 Required Simulation Packages
 - AirSim
 - MoveIt
+- [PoinTr](https://github.com/yuxumin/PoinTr)
 
 Start AirSim in Unreal Engine environment
 
